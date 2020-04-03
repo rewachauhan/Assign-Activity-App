@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AssignActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_assign2">Assign2Activity</string>
+    <string name="cb1">Inferno</string>
+    <string name="cb2">Deception Point</string>
+    <string name="cb3">Angels and Demons</string>
+    <string name="cb4">Origin</string>
+    <string name="cb5">The Lost Symbol</string>
+    <string name="btn1">"TOTAL "</string>
+
+</resources>
